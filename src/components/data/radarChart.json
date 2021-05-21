@@ -1,0 +1,38 @@
+[
+  {
+    "subject": "Math",
+    "Student-1": 120,
+    "Student-2": 110,
+    "fullMark": 150
+  },
+  {
+    "subject": "Chinese",
+    "Student-1": 98,
+    "Student-2": 130,
+    "fullMark": 150
+  },
+  {
+    "subject": "English",
+    "Student-1": 86,
+    "Student-2": 130,
+    "fullMark": 150
+  },
+  {
+    "subject": "Geography",
+    "Student-1": 99,
+    "Student-2": 100,
+    "fullMark": 150
+  },
+  {
+    "subject": "Physics",
+    "Student-1": 85,
+    "Student-2": 90,
+    "fullMark": 150
+  },
+  {
+    "subject": "History",
+    "Student-1": 65,
+    "Student-2": 85,
+    "fullMark": 150
+  }
+]

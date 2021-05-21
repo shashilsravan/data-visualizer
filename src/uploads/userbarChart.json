@@ -1,0 +1,62 @@
+[
+  {
+    "Player": "Virat",
+    "Tests": 52.4,
+    "ODI": 59.1,
+    "T20I": 52.6
+  },
+  {
+    "Player": "Rohit",
+    "Tests": 46.7,
+    "ODI": 49.0,
+    "T20I": 32.5
+  },
+  {
+    "Player": "Warner",
+    "Tests": 48.1,
+    "ODI": 45.5,
+    "T20I": 31.4
+  },
+  {
+    "Player": "Smith",
+    "Tests": 61.8,
+    "ODI": 43.3,
+    "T20I": 27.4
+  },
+  {
+    "Player": "AB Devilliers",
+    "Tests": 50.7,
+    "ODI": 53.5,
+    "T20I": 26.1
+  },
+  {
+    "Player": "Buttler",
+    "Tests": 34.5,
+    "ODI": 38.7,
+    "T20I": 30.2
+  },
+  {
+    "Player": "Ben stokes",
+    "Tests": 37.0,
+    "ODI": 40.8,
+    "T20I": 20.1
+  },
+  {
+    "Player": "Williamson",
+    "Tests": 54.3,
+    "ODI": 47.5,
+    "T20I": 31.7
+  },
+  {
+    "Player": "Ross Taylor",
+    "Tests": 45.8,
+    "ODI": 48.2,
+    "T20I": 26.1
+  }, 
+  {
+    "Player": "Shai Hope",
+    "Tests": 26.3,
+    "ODI": 53.7,
+    "T20I": 21.6
+  }
+]

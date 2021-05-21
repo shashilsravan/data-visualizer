@@ -1,0 +1,74 @@
+[
+  {
+    "month": "January",
+    "Sports": 4000,
+    "News": 2400,
+    "Entertainment": 2400
+  },
+  {
+    "month": "February",
+    "Sports": 3000,
+    "News": 1398,
+    "Entertainment": 2210
+  },
+  {
+    "month": "March",
+    "Sports": 2000,
+    "News": 9800,
+    "Entertainment": 2290
+  },
+  {
+    "month": "April",
+    "Sports": 2780,
+    "News": 3908,
+    "Entertainment": 2000
+  },
+  {
+    "month": "May",
+    "Sports": 1890,
+    "News": 4800,
+    "Entertainment": 2181
+  },
+  {
+    "month": "June",
+    "Sports": 2390,
+    "News": 3800,
+    "Entertainment": 2500
+  },
+  {
+    "month": "July",
+    "Sports": 3490,
+    "News": 4300,
+    "Entertainment": 2100
+  },
+  {
+    "month": "August",
+    "Sports": 2090,
+    "News": 3990,
+    "Entertainment": 2800
+  },
+  {
+    "month": "September",
+    "Sports": 2490,
+    "News": 4000,
+    "Entertainment": 2600
+  }, 
+  {
+    "month": "October",
+    "Sports": 2090,
+    "News": 3000,
+    "Entertainment": 3500
+  },
+  {
+    "month": "November",
+    "Sports": 3590,
+    "News": 4000,
+    "Entertainment": 2900
+  }, 
+  {
+    "month": "December",
+    "Sports": 4390,
+    "News": 2800,
+    "Entertainment": 1500
+  }
+]
