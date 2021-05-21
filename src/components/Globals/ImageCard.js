@@ -1,14 +1,17 @@
 import React from 'react'
 import styled from 'styled-components'
+import Bounce from 'react-reveal/Bounce';
 
 export default function ImageCard({imageUrl, text, linkedTo}) {
     return (
         <CardWrap>
-            <ImageHoverZoom>
-                <ImageComponent 
-                    src={imageUrl}>
-                </ImageComponent>
-            </ImageHoverZoom>
+            <Bounce>
+                <ImageHoverZoom>
+                    <ImageComponent 
+                        src={imageUrl}>
+                    </ImageComponent>
+                </ImageHoverZoom>
+            </Bounce>
             
             <CardText href={linkedTo}>
                 {text}

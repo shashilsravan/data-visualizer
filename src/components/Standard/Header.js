@@ -6,7 +6,7 @@ import Typed from 'react-typed';
 export default function Header() {
     return (
         <MainHeader>
-            <Logo href="/"> 
+            <Logo href="/home"> 
                 <Typed
                     strings={['Shashil', 'Shashil Sravan', 'Sravan']}
                     typeSpeed={40} backSpeed={60} loop loopCount={1}
